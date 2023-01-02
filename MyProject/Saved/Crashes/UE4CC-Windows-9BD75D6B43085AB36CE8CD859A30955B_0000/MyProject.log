@@ -1,0 +1,1252 @@
+﻿Log file open, 12/24/22 10:56:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259011
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.12.24-08.56.05:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.12.24-08.56.05:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:706][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.24-08.56.05:711][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.24-08.56.05:711][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.24-08.56.05:711][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.12.24-08.56.05:711][  0]LogHAL: Display: Platform has ~ 16 GB [16866852864 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.24-08.56.05:711][  0]LogInit: Going up to parent DeviceProfile []
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Scalability.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Engine.ini]
+[2022.12.24-08.56.05:712][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal_SingleDelegates/MyProject/Saved/Config/Windows/Editor.ini]
+[2022.12.24-08.56.05:713][  0]LogInit: Computer: MSI
+[2022.12.24-08.56.05:713][  0]LogInit: User: noura
+[2022.12.24-08.56.05:713][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.24-08.56.05:713][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.24-08.56.05:713][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.12.24-08.56.05:713][  0]LogMemory: Platform Memory Stats for Windows
+[2022.12.24-08.56.05:713][  0]LogMemory: Process Physical Memory: 147.71 MB used, 147.71 MB peak
+[2022.12.24-08.56.05:713][  0]LogMemory: Process Virtual Memory: 127.15 MB used, 127.15 MB peak
+[2022.12.24-08.56.05:713][  0]LogMemory: Physical Memory: 7120.96 MB used,  8964.52 MB free, 16085.48 MB total
+[2022.12.24-08.56.05:713][  0]LogMemory: Virtual Memory: 134207112.00 MB used,  10616.64 MB free, 134217728.00 MB total
+[2022.12.24-08.56.05:736][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.24-08.56.05:776][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.12.24-08.56.05:777][  0]LogInit: Using OS detected language (en-US).
+[2022.12.24-08.56.05:777][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.24-08.56.05:778][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.12.24-08.56.05:942][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.24-08.56.05:953][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.12.24-08.56.05:967][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.24-08.56.05:967][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.24-08.56.06:065][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.12.24-08.56.06:068][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.24-08.56.06:069][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.12.24-08.56.06:069][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.12.24-08.56.06:069][  0]LogD3D11RHI: D3D11 adapters:
+[2022.12.24-08.56.06:121][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.12.24-08.56.06:121][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.12.24-08.56.06:292][  0]LogD3D11RHI:    1. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2022.12.24-08.56.06:292][  0]LogD3D11RHI:       6023/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     SharedSystemMemory : 8433426432 bytes
+[2022.12.24-08.56.06:296][  0]LogD3D11RHI:     AdapterLuid : 0 55771
+[2022.12.24-08.56.06:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.12.24-08.56.06:303][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.24-08.56.06:303][  0]LogWindows: EnumDisplayDevices:
+[2022.12.24-08.56.06:303][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.12.24-08.56.06:303][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.24-08.56.06:303][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.24-08.56.06:303][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.12.24-08.56.06:303][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0)
+[2022.12.24-08.56.06:304][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:   Driver Version: 462.21 (internal:27.21.14.6221, unified:462.21)
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:      Driver Date: 3-28-2021
+[2022.12.24-08.56.06:304][  0]LogRHI: Texture pool is 4216 MB (70% of 6023 MB)
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     DeviceId    : 2520
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     SubSysId    : 12ea1462
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     DedicatedVideoMemory : 6315573248 bytes
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     SharedSystemMemory : 8433426432 bytes
+[2022.12.24-08.56.06:304][  0]LogD3D11RHI:     AdapterLuid : 0 55771
+[2022.12.24-08.56.06:376][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.12.24-08.56.06:376][  0]LogD3D11RHI: Async texture creation enabled
+[2022.12.24-08.56.06:376][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.12.24-08.56.06:403][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.12.24-08.56.06:425][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.12.24-08.56.06:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.24-08.56.06:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.24-08.56.06:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.24-08.56.06:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.24-08.56.06:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.24-08.56.06:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.12.24-08.56.06:832][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.24-08.56.06:835][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.24-08.56.06:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.12.24-08.56.06:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.12.24-08.56.06:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.12.24-08.56.06:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.12.24-08.56.06:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.12.24-08.56.06:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.12.24-08.56.06:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.12.24-08.56.06:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.12.24-08.56.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.12.24-08.56.06:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.24-08.56.06:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.24-08.56.06:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.12.24-08.56.06:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.24-08.56.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.24-08.56.06:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.24-08.56.06:913][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.12.24-08.56.06:920][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.24-08.56.06:950][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.12.24-08.56.06:987][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.24-08.56.06:987][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Unreal_SingleDelegates/MyProject/Intermediate/Shaders/WorkingDirectory/16584/).
+[2022.12.24-08.56.06:987][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/noura/AppData/Local/Temp/UnrealShaderWorkingDir/090A1D6D4FB5AFFED85A70A564C43F54/'.
+[2022.12.24-08.56.06:987][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.24-08.56.06:987][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.12.24-08.56.06:987][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.12.24-08.56.07:881][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal_SingleDelegates/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal_SingleDelegates/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.24-08.56.07:938][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.12.24-08.56.07:954][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.12.24-08.56.07:954][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.24-08.56.07:954][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.12.24-08.56.07:961][  0]LogDerivedDataCache: Speed tests for C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.24-08.56.07:961][  0]LogDerivedDataCache: Display: Performance to C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1993.75MBs, RandomWriteSpeed=148.74MBs. Assigned SpeedClass 'Local'
+[2022.12.24-08.56.07:962][  0]LogDerivedDataCache: Using Local data cache path C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.24-08.56.07:962][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.24-08.56.07:962][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.12.24-08.56.08:009][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.24-08.56.08:009][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.24-08.56.08:044][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2022.12.24-08.56.08:506][  0]LogInit: Selected Device Profile: [Windows]
+[2022.12.24-08.56.08:507][  0]LogInit: Active device profile: [0000024262A5D500][00000242614749C0 49] Windows
+[2022.12.24-08.56.08:507][  0]LogInit: Profiles: [0000024262A5D500][00000242614749C0 49] Windows, [0000024262A0A800][000002426147CB40 49] WindowsNoEditor, [0000024262A5D400][0000024261480CC0 49] WindowsServer, [0000024262A5D700][0000024261484E40 49] WindowsClient, [0000024262A0FE00][0000024261488FC0 49] IOS, [0000024262A0BE00][000002426148D140 49] iPadAir, [0000024262A0D700][000002426265F2C0 49] iPadAir2, [00000242629AC500][0000024262667580 49] IPadPro, [00000242629AC600][00000242626635C0 49] iPadAir3, [0000024262A08600][000002426266B740 49] iPadAir4, [00000242629AEF00][000002426266F8C0 49] iPadMini2, [0000024262A08700][0000024262673A40 49] iPadMini3, [00000242629ACE00][0000024262677BC0 49] iPadMini4, [0000024262A08E00][000002426267A1C0 49] iPadMini5, [00000242629ABE00][0000024262682480 49] iPhone6, [00000242629ABF00][000002426267E4C0 49] iPodTouch6, [0000024262A0D500][0000024262686700 49] iPhone7, [0000024262A0D600][0000024261478740 49] iPodTouch7, [00000242629AE900][00000242626CA880 49] iPhone5S, [0000024262A0D400][00000242626CE9C0 49] iPhone6Plus, [0000024262A0F200][00000242626D6B40 49] iPhone6S, [00000242629A9D00][00000242626DACC0 49] iPhone6SPlus, [0000024262A0F100][00000242626DEE40 49] iPhone7Plus, [00000242629A9A00][00000242626E2FC0 49] iPhoneSE, [00000242629AE000][00000242626E7140 49] iPhone8, [00000242629A8B00][00000242626EB2C0 49] iPhone8Plus, [00000242629ADE00][00000242626EF440 49] iPhoneX, [00000242629A8600][00000242626F35C0 49] iPhoneXS, [00000242629AD900][00000242626F7740 49] iPhoneXSMax, [00000242629A9F00][00000242626FB8C0 49] iPhoneXR, [00000242629AFD00][00000242626FFA40 49] iPhone11, [00000242629AA900][0000024262703BC0 49] iPhone11Pro, [00000242629AED00][00000242627061C0 49] iPhone11ProMax, [00000242629AAC00][000002426270A340 49] iPhoneSE2, [00000242629AF700][000002426270E4C0 49] iPhone12Mini, [00000242629A8200][0000024262712640 49] iPhone12, [00000242629ACA00][00000242626D2780 49] iPhone12Pro, [00000242629A9500][00000242627168C0 49] iPhone12ProMax, [00000242629AE400][000002426271AA00 49] iPadPro105, [00000242629AA300][000002426271EB40 49] iPadPro129, [00000242629AFC00][0000024262726CC0 49] iPadPro97, [00000242629AAF00][000002426272AE40 49] iPadPro2_129, [00000242629AFB00][000002426272EFC0 49] iPad5, [00000242629A9E00][0000024262733140 49] iPad6, [00000242629ACF00][00000242627372C0 49] iPad7, [00000242629AA400][000002426273B440 49] iPad8, [00000242629AD700][000002426273F5C0 49] iPadPro11, [00000242629A8900][0000024262743740 49] iPadPro2_11, [00000242629AD200][00000242627478C0 49] iPadPro3_129, [00000242629AA000][000002426274BA40 49] iPadPro4_129, [00000242629AE800][000002426274FBC0 49] AppleTV, [00000242629A8700][00000242627521C0 49] AppleTV4K, [00000242629AF600][0000024262756340 49] TVOS, [00000242629AB200][000002426275A4C0 49] Mac, [00000242629AC200][000002426275E640 49] MacClient, [00000242629A9000][00000242627627C0 49] MacNoEditor, [00000242629ADD00][0000024262766940 49] MacServer, [00000242629ABD00][0000024262722A80 49] Linux, [00000242629ADA00][000002426276ABC0 49] LinuxAArch64, [00000242629AB400][000002426276ED00 49] LinuxNoEditor, [00000242629AE600][0000024262776E80 49] LinuxAArch64NoEditor, [00000242629AB600][000002426277B000 49] LinuxClient, [00000242629AE200][000002426277F180 49] LinuxAArch64Client, [00000242629A8F00][0000024262783300 49] LinuxServer, [00000242629AD100][0000024262787480 49] LinuxAArch64Server, [00000242629A9100][000002426278B600 49] Android, [00000242629AEA00][000002426278F780 49] Android_Low, [00000242629A9200][0000024262793900 49] Android_Mid, [00000242629AEB00][0000024262797A80 49] Android_High, [00000242629A9600][000002426279BC00 49] Android_Default, [00000242629AD400][000002426279E200 49] Android_Adreno4xx, [00000242629AB900][00000242627A2380 49] Android_Adreno5xx_Low, [00000242629AEE00][00000242627A6500 49] Android_Adreno5xx, [0000024262A0F700][00000242627AA680 49] Android_Adreno6xx, [0000024262A5F700][00000242627AE800 49] Android_Adreno6xx_Vulkan, [0000024262A0CA00][00000242627B2980 49] Android_Mali_T6xx, [0000024262A5EE00][00000242627B6B00 49] Android_Mali_T7xx, [0000024262A0DB00][0000024262772C40 49] Android_Mali_T8xx, [0000024262A5CA00][00000242627BAD80 49] Android_Mali_G71, [0000024262A0DD00][00000242627BEEC0 49] Android_Mali_G72, [0000024262A5E600][00000242627C7040 49] Android_Mali_G72_Vulkan, [0000024262A0C900][00000242627CB1C0 49] Android_Mali_G76, [0000024262A5EB00][00000242627CF340 49] Android_Mali_G76_Vulkan, [0000024262A0C200][00000242627D34C0 49] Android_Mali_G77, [0000024262A5EF00][00000242627D7640 49] Android_Mali_G77_Vulkan, [0000024262A0E800][00000242627DB7C0 49] Android_Mali_G78, [0000024262A5DB00][00000242627DF940 49] Android_Mali_G78_Vulkan, [0000024262A0C400][00000242627E3AC0 49] Android_Mali_G710, [0000024262A5D000][00000242627E60C0 49] Android_Mali_G710_Vulkan, [0000024262A0F000][00000242627EA240 49] Android_Vulkan_SM5, [0000024262A5C600][00000242627EE3C0 49] Android_PowerVR_G6xxx, [0000024262A0FA00][00000242627F2540 49] Android_PowerVR_GT7xxx, [0000024262A5E100][000002426282E6C0 49] Android_PowerVR_GE8xxx, [0000024262A0ED00][0000024262832840 49] Android_PowerVR_GM9xxx, [0000024262A5D900][00000242628369C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000024262A0D000][000002426283AB40 49] Android_TegraK1, [00000242629A9700][000002426283ECC0 49] Android_Unknown_Vulkan, [0000024262A0E300][00000242627C2E00 49] Lumin, [00000242629AAE00][0000024262842F40 49] Lumin_Desktop, [0000024262A0DF00][0000024262847080 49] HoloLens, 
+[2022.12.24-08.56.08:787][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.24-08.56.08:787][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.24-08.56.08:787][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.24-08.56.08:787][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.24-08.56.08:787][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.24-08.56.08:816][  0]LogNetVersion: MyProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3629800737)
+[2022.12.24-08.56.09:468][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.12.24-08.56.09:569][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.24-08.56.09:579][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.12.24-08.56.09:579][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.12.24-08.56.09:579][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.24-08.56.10:011][  0]LogPython: Using Python 3.7.7
+[2022.12.24-08.56.10:681][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.24-08.56.10:695][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.24-08.56.10:772][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A3C7C8704B24F7C3635BBDA11050D711 | Instance: 3739D5344B74BE6D4D56D2A7C61E626E (MSI-16584).
+[2022.12.24-08.56.11:002][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.11:002][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.11:005][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.11:008][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.11:015][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.11:021][  0]LogUProjectInfo: Found projects:
+[2022.12.24-08.56.11:171][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.24-08.56.11:217][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.24-08.56.11:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.24-08.56.11:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.24-08.56.11:380][  0]LogCollectionManager: Loaded 0 collections in 0.000860 seconds
+[2022.12.24-08.56.11:402][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_SingleDelegates/MyProject/Saved/Collections/' took 0.00s
+[2022.12.24-08.56.11:402][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_SingleDelegates/MyProject/Content/Developers/noura/Collections/' took 0.00s
+[2022.12.24-08.56.11:402][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_SingleDelegates/MyProject/Content/Collections/' took 0.00s
+[2022.12.24-08.56.11:402][  0]LogOcInput: OculusInput pre-init called
+[2022.12.24-08.56.11:706][  0]LogEngine: Initializing Engine...
+[2022.12.24-08.56.11:708][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.12.24-08.56.11:708][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.12.24-08.56.11:708][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.12.24-08.56.11:709][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.24-08.56.11:842][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.24-08.56.11:853][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.24-08.56.11:854][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.24-08.56.11:858][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.24-08.56.11:859][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.24-08.56.11:859][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.24-08.56.11:859][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.24-08.56.11:859][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.24-08.56.11:860][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.24-08.56.11:860][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.24-08.56.11:860][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.24-08.56.11:860][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.24-08.56.11:860][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.24-08.56.11:896][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.24-08.56.11:896][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.12.24-08.56.12:206][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.24-08.56.12:209][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.24-08.56.12:210][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.24-08.56.12:210][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.24-08.56.12:211][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.24-08.56.12:211][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.24-08.56.12:211][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.24-08.56.12:213][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.24-08.56.12:213][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.24-08.56.12:213][  0]LogInit: FAudioDevice initialized.
+[2022.12.24-08.56.12:213][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.24-08.56.12:213][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.24-08.56.12:271][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/noura/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.12.24-08.56.12:272][  0]LogInit: Texture streaming: Enabled
+[2022.12.24-08.56.12:289][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.12.24-08.56.12:293][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.24-08.56.12:293][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.12.24-08.56.12:294][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.12.24-08.56.12:310][  0]LogInit: Transaction tracking system initialized
+[2022.12.24-08.56.12:336][  0]BlueprintLog: New page: Editor Load
+[2022.12.24-08.56.12:441][  0]LocalizationService: Localization service is disabled
+[2022.12.24-08.56.12:472][  0]TimingProfiler: Initialize
+[2022.12.24-08.56.12:472][  0]TimingProfiler: OnSessionChanged
+[2022.12.24-08.56.12:472][  0]LoadingProfiler: Initialize
+[2022.12.24-08.56.12:472][  0]LoadingProfiler: OnSessionChanged
+[2022.12.24-08.56.12:472][  0]NetworkingProfiler: Initialize
+[2022.12.24-08.56.12:472][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.24-08.56.12:472][  0]MemoryProfiler: Initialize
+[2022.12.24-08.56.12:472][  0]MemoryProfiler: OnSessionChanged
+[2022.12.24-08.56.12:676][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_SingleDelegates/MyProject/Content/' took 0.00s
+[2022.12.24-08.56.12:676][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.12.24-08.56.12:676][  0]LogCook: Display: Mobile HDR setting 1
+[2022.12.24-08.56.13:127][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.24-08.56.13:133][  0]SourceControl: Source control is disabled
+[2022.12.24-08.56.13:133][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.390
+[2022.12.24-08.56.13:133][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.24-08.56.13:133][  0]LightingResults: New page: Lighting Build
+[2022.12.24-08.56.13:135][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.24-08.56.13:136][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.24-08.56.13:136][  0]MapCheck: New page: Map Check
+[2022.12.24-08.56.13:136][  0]LightingResults: New page: Lighting Build
+[2022.12.24-08.56.13:143][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.24-08.56.13:147][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.12.24-08.56.13:216][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.12.24-08.56.13:217][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.12.24-08.56.13:222][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.24-08.56.13:231][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.24-08.56.13:231][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.24-08.56.13:231][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2022.12.24-08.56.13:231][  0]LogFileHelpers: Loading map 'Template_Default' took 0.098
+[2022.12.24-08.56.13:234][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.491
+[2022.12.24-08.56.13:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-08.56.13:362][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-08.56.13:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-08.56.13:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.24-08.56.13:390][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3823 classes and 930 folders.
+[2022.12.24-08.56.13:392][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.12.24-08.56.13:393][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.24-08.56.13:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.24-08.56.13:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.12.24-08.56.13:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000162
+[2022.12.24-08.56.13:394][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.24-08.56.13:394][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:394][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.24-08.56.13:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:394][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.12.24-08.56.13:394][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.12.24-08.56.13:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.12.24-08.56.13:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:395][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.24-08.56.13:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:395][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.12.24-08.56.13:395][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.12.24-08.56.13:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.12.24-08.56.13:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:396][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.12.24-08.56.13:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.24-08.56.13:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.12.24-08.56.13:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.24-08.56.13:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:397][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.12.24-08.56.13:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.12.24-08.56.13:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.12.24-08.56.13:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:398][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:398][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.12.24-08.56.13:398][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.12.24-08.56.13:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.12.24-08.56.13:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.12.24-08.56.13:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.24-08.56.13:400][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.24-08.56.13:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.24-08.56.13:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.12.24-08.56.13:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.12.24-08.56.13:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.12.24-08.56.13:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:401][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.12.24-08.56.13:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.24-08.56.13:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.12.24-08.56.13:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:402][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.12.24-08.56.13:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:402][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.12.24-08.56.13:402][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.12.24-08.56.13:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.12.24-08.56.13:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.12.24-08.56.13:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.12.24-08.56.13:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.12.24-08.56.13:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.12.24-08.56.13:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.12.24-08.56.13:404][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.12.24-08.56.13:404][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.12.24-08.56.13:404][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.12.24-08.56.13:437][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.12.24-08.56.13:444][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.12.24-08.56.13:517][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.24-08.56.13:519][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.24-08.56.13:522][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.24-08.56.13:656][  0]LogRenderer: Reallocating scene render targets to support 924x392 Format 10 NumSamples 1 (Frame:1).
+[2022.12.24-08.56.13:787][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.12.24-08.56.13:788][  0]LogLoad: (Engine Initialization) Total time: 9.04 seconds
+[2022.12.24-08.56.13:788][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.24-08.56.13:853][  0]LogAssetRegistry: Asset discovery search completed in 5.8110 seconds
+[2022.12.24-08.56.13:860][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.12.24-08.56.13:863][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.24-09.04.15:155][505]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.24-09.04.45:658][326]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.24-09.04.45:735][326]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.24-09.04.45:785][326]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.24-09.05.16:425][154]Running D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" -game -rocket -progress
+[2022.12.24-09.05.16:834][154]Discovering modules, targets and source code for project...
+[2022.12.24-09.05.17:841][154]Binding IntelliSense data...
+[2022.12.24-09.05.19:465][154]Binding IntelliSense data... 100%
+[2022.12.24-09.05.19:465][154]Writing project files...
+[2022.12.24-09.05.21:176][154]Writing project files... 100%
+[2022.12.24-09.05.21:280][154]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.12.24-09.05.21:328][154]Candidate modules for hot reload:
+[2022.12.24-09.05.21:329][154]  MyProject
+[2022.12.24-09.05.21:329][154]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,2136 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:05:29 PM
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Creating makefile for MyProjectEditor (no existing makefile)
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.5068308 seconds
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.05.29:528][154]CompilerResultsLog: Building 9 actions with 16 processes...
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [1/9] MyProject.cpp
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [2/9] MyProjectGameModeBase.cpp
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [3/9] MyProject.init.gen.cpp
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [4/9] TalkerActor.cpp
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [5/9] TalkerActor.gen.cpp
+[2022.12.24-09.05.29:528][154]CompilerResultsLog:   [6/9] MyProjectGameModeBase.gen.cpp
+[2022.12.24-09.05.29:529][154]CompilerResultsLog:   [7/9] UE4Editor-MyProject-2136.lib
+[2022.12.24-09.05.29:529][154]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2136.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2136.exp
+[2022.12.24-09.05.29:529][154]CompilerResultsLog:   [8/9] UE4Editor-MyProject-2136.dll
+[2022.12.24-09.05.29:529][154]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2136.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-2136.suppressed.exp
+[2022.12.24-09.05.29:529][154]CompilerResultsLog:   [9/9] MyProjectEditor.target
+[2022.12.24-09.05.29:529][154]CompilerResultsLog: Total time in Parallel executor: 1.87 seconds
+[2022.12.24-09.05.29:529][154]CompilerResultsLog: Total execution time: 8.06 seconds
+[2022.12.24-09.05.29:529][154]LogMainFrame: MainFrame: Module compiling took 8.249 seconds
+[2022.12.24-09.05.29:560][154]LogClass: Could not find existing class TalkerActor in package /Script/MyProject for HotReload, assuming new class
+[2022.12.24-09.05.29:562][154]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2022.12.24-09.05.29:564][154]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.05.29:629][154]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0092 seconds. Added 3824 classes and 930 folders.
+[2022.12.24-09.05.29:629][154]Display: HotReload took  8.4s.
+[2022.12.24-09.05.29:634][154]Warning: HotReload operation took  8.4s.
+[2022.12.24-09.05.29:742][154]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.24-09.05.29:750][154]LogHotReload: New module detected: UE4Editor-MyProject-2136.dll
+[2022.12.24-09.05.29:792][155]LogHotReload: Starting Hot-Reload from IDE
+[2022.12.24-09.05.29:971][155]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2022.12.24-09.05.29:972][155]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.05.29:989][155]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0131 seconds. Added 3824 classes and 930 folders.
+[2022.12.24-09.05.30:002][155]Display: HotReload took  0.2s.
+[2022.12.24-09.06.25:419][124]Running D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" -game -rocket -progress
+[2022.12.24-09.06.25:830][124]Discovering modules, targets and source code for project...
+[2022.12.24-09.06.26:837][124]Binding IntelliSense data...
+[2022.12.24-09.06.28:461][124]Binding IntelliSense data... 100%
+[2022.12.24-09.06.28:461][124]Writing project files...
+[2022.12.24-09.06.30:173][124]Writing project files... 100%
+[2022.12.24-09.06.30:293][124]Candidate modules for hot reload:
+[2022.12.24-09.06.30:293][124]  MyProject
+[2022.12.24-09.06.30:293][124]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,6626 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:06:38 PM
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Creating makefile for MyProjectEditor (no existing makefile)
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.4086589 seconds
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [1/6] ListnerActor.cpp
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [2/6] MyProject.init.gen.cpp
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [3/6] ListnerActor.gen.cpp
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [4/6] UE4Editor-MyProject-6626.lib
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-6626.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-6626.exp
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [5/6] UE4Editor-MyProject-6626.dll
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-6626.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-6626.suppressed.exp
+[2022.12.24-09.06.38:453][124]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Total time in Parallel executor: 1.81 seconds
+[2022.12.24-09.06.38:453][124]CompilerResultsLog: Total execution time: 8.05 seconds
+[2022.12.24-09.06.38:453][124]LogMainFrame: MainFrame: Module compiling took 8.168 seconds
+[2022.12.24-09.06.38:495][124]LogClass: Could not find existing class ListnerActor in package /Script/MyProject for HotReload, assuming new class
+[2022.12.24-09.06.38:500][124]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2022.12.24-09.06.38:503][124]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.06.38:570][124]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0127 seconds. Added 3825 classes and 930 folders.
+[2022.12.24-09.06.38:570][124]Display: HotReload took  8.3s.
+[2022.12.24-09.06.38:570][124]Warning: HotReload operation took  8.3s.
+[2022.12.24-09.06.39:379][124]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.12.24-09.06.39:422][125]LogHotReload: New module detected: UE4Editor-MyProject-6626.dll
+[2022.12.24-09.06.39:471][126]LogHotReload: Starting Hot-Reload from IDE
+[2022.12.24-09.06.39:503][126]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0004 seconds. Added 3 classes and 2 folders.
+[2022.12.24-09.06.39:505][126]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.06.39:519][126]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3825 classes and 930 folders.
+[2022.12.24-09.06.39:524][126]Display: HotReload took  0.1s.
+[2022.12.24-09.11.27:073][ 39]Candidate modules for hot reload:
+[2022.12.24-09.11.27:074][ 39]  MyProject
+[2022.12.24-09.11.27:074][ 39]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,9304 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.11.27:080][ 39]Warning: Starting HotReload took  0.1s.
+[2022.12.24-09.11.34:059][451]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:11:34 PM
+[2022.12.24-09.11.34:059][451]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.1967184 seconds
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Building 5 actions with 16 processes...
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   [1/5] TalkerActor.cpp
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   [2/5] TalkerActor.gen.cpp
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   [3/5] UE4Editor-MyProject-9304.lib
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-9304.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-9304.exp
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   [4/5] UE4Editor-MyProject-9304.dll
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-9304.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-9304.suppressed.exp
+[2022.12.24-09.11.34:060][451]CompilerResultsLog:   [5/5] MyProjectEditor.target
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Total time in Parallel executor: 1.79 seconds
+[2022.12.24-09.11.34:060][451]CompilerResultsLog: Total execution time: 6.80 seconds
+[2022.12.24-09.11.34:060][451]LogMainFrame: MainFrame: Module compiling took 7.035 seconds
+[2022.12.24-09.11.34:091][451]LogClass: Could not find existing class TalkerActor in package /Script/MyProject for HotReload, assuming new class
+[2022.12.24-09.11.34:094][451]LogHotReload: Re-instancing TalkerActor after hot-reload.
+[2022.12.24-09.11.34:100][451]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0003 seconds. Added 3 classes and 2 folders.
+[2022.12.24-09.11.34:102][451]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.11.34:147][451]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3825 classes and 930 folders.
+[2022.12.24-09.11.34:147][451]Display: HotReload took  7.1s.
+[2022.12.24-09.31.59:242][460]Candidate modules for hot reload:
+[2022.12.24-09.31.59:242][460]  MyProject
+[2022.12.24-09.31.59:242][460]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,5432 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.31.59:245][460]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:32:04 PM
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.32.04:836][ 63]CompilerResultsLog: Error: D:/Unreal_SingleDelegates/MyProject/Source/MyProject/ListnerActor.h(31)  : Error: Missing variable name
+[2022.12.24-09.32.04:836][ 63]LogMainFrame: MainFrame: Module compiling took 5.600 seconds
+[2022.12.24-09.32.04:841][ 63]Warning: HotReload failed, recompile failed
+[2022.12.24-09.33.18:466][619]Candidate modules for hot reload:
+[2022.12.24-09.33.18:467][619]  MyProject
+[2022.12.24-09.33.18:467][619]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,4107 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.33.18:470][619]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.33.25:149][324]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:33:25 PM
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.6442027 seconds
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.33.25:150][324]CompilerResultsLog: Building 8 actions with 16 processes...
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   [1/8] ListnerActor.cpp
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(31) : error C3668: 'AListnerActor::EndPlay': method with override specifier 'override' did not override any base class methods
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(31): warning C4263: 'void AListnerActor::EndPlay(void)': member function does not override any base class virtual member function
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(36): warning C4264: 'void AActor::EndPlay(const EEndPlayReason::Type)': no override available for virtual member function from base 'AActor'; function is hidden
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(1504): note: see declaration of 'AActor::EndPlay'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h(28): note: see declaration of 'AActor'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(28) : error C2761: 'void AListnerActor::ReceiveMessage(FString)': redeclaration of member is not allowed
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(29) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(32) : error C2761: 'void AListnerActor::EndPlay(void)': redeclaration of member is not allowed
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(33) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   [2/8] ListnerActor.gen.cpp
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(31) : error C3668: 'AListnerActor::EndPlay': method with override specifier 'override' did not override any base class methods
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(31): warning C4263: 'void AListnerActor::EndPlay(void)': member function does not override any base class virtual member function
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(36): warning C4264: 'void AActor::EndPlay(const EEndPlayReason::Type)': no override available for virtual member function from base 'AActor'; function is hidden
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(1504): note: see declaration of 'AActor::EndPlay'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/LocalPlayer.h(28): note: see declaration of 'AActor'
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   [3/8] TalkerActor.gen.cpp
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   [4/8] MyProject.init.gen.cpp
+[2022.12.24-09.33.25:150][324]CompilerResultsLog:   [5/8] TalkerActor.cpp
+[2022.12.24-09.33.25:150][324]LogMainFrame: MainFrame: Module compiling took 6.689 seconds
+[2022.12.24-09.33.25:150][324]Warning: HotReload failed, recompile failed
+[2022.12.24-09.37.28:488][ 78]Candidate modules for hot reload:
+[2022.12.24-09.37.28:488][ 78]  MyProject
+[2022.12.24-09.37.28:488][ 78]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,1402 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.37.28:491][ 78]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.37.34:625][473]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:37:34 PM
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.3637218 seconds
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.37.34:626][473]CompilerResultsLog: Building 7 actions with 16 processes...
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:   [1/7] ListnerActor.cpp
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(28) : error C2761: 'void AListnerActor::ReceiveMessage(FString)': redeclaration of member is not allowed
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(29) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(32) : error C2761: 'void AListnerActor::EndPlay(const EEndPlayReason::Type)': redeclaration of member is not allowed
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(33) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:   [2/7] ListnerActor.gen.cpp
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:   [3/7] MyProject.init.gen.cpp
+[2022.12.24-09.37.34:626][473]CompilerResultsLog:   [4/7] TalkerActor.cpp
+[2022.12.24-09.37.34:626][473]LogMainFrame: MainFrame: Module compiling took 6.144 seconds
+[2022.12.24-09.37.34:626][473]Warning: HotReload failed, recompile failed
+[2022.12.24-09.37.36:922][713]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.24-09.38.27:817][772]Candidate modules for hot reload:
+[2022.12.24-09.38.27:817][772]  MyProject
+[2022.12.24-09.38.27:817][772]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,6414 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.38.27:819][772]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.38.29:266][859]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:38:29 PM
+[2022.12.24-09.38.29:267][859]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.38.29:267][859]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.38.29:267][859]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.38.29:267][859]CompilerResultsLog: Building 5 actions with 16 processes...
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:   [1/5] ListnerActor.cpp
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(28) : error C2761: 'void AListnerActor::ReceiveMessage(FString)': redeclaration of member is not allowed
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(29) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(32) : error C2761: 'void AListnerActor::EndPlay(const EEndPlayReason::Type)': redeclaration of member is not allowed
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(33) : error C2447: '{': missing function header (old-style formal list?)
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:   [2/5] ListnerActor.gen.cpp
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2143: syntax error: missing ';' before '*'
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+[2022.12.24-09.38.29:267][859]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject/ListnerActor.h(34) : error C2238: unexpected token(s) preceding ';'
+[2022.12.24-09.38.29:267][859]LogMainFrame: MainFrame: Module compiling took 1.456 seconds
+[2022.12.24-09.38.29:267][859]Warning: HotReload failed, recompile failed
+[2022.12.24-09.39.20:127][871]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.39.20:131][871]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.39.21:191][997]Candidate modules for hot reload:
+[2022.12.24-09.39.21:191][997]  MyProject
+[2022.12.24-09.39.21:191][997]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,3259 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.39.21:194][997]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.39.29:242][898]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:39:29 PM
+[2022.12.24-09.39.29:242][898]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.39.29:242][898]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.39.29:242][898]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Reflection code generated for MyProjectEditor in 5.0271367 seconds
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [1/6] ListnerActor.cpp
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [2/6] MyProject.init.gen.cpp
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [3/6] ListnerActor.gen.cpp
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [4/6] UE4Editor-MyProject-3259.lib
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3259.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3259.exp
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [5/6] UE4Editor-MyProject-3259.dll
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3259.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3259.suppressed.exp
+[2022.12.24-09.39.29:243][898]CompilerResultsLog:   [6/6] MyProjectEditor.target
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Total time in Parallel executor: 2.08 seconds
+[2022.12.24-09.39.29:243][898]CompilerResultsLog: Total execution time: 7.96 seconds
+[2022.12.24-09.39.29:243][898]LogMainFrame: MainFrame: Module compiling took 8.058 seconds
+[2022.12.24-09.39.29:274][898]LogClass: Could not find existing class TalkerActor in package /Script/MyProject for HotReload, assuming new class
+[2022.12.24-09.39.29:279][898]LogHotReload: Re-instancing TalkerActor after hot-reload.
+[2022.12.24-09.39.29:286][898]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MyProject' in 0.0006 seconds. Added 3 classes and 2 folders.
+[2022.12.24-09.39.29:288][898]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.12.24-09.39.29:342][898]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0091 seconds. Added 3825 classes and 930 folders.
+[2022.12.24-09.39.29:342][898]Display: HotReload took  8.2s.
+[2022.12.24-09.40.10:434][319]Candidate modules for hot reload:
+[2022.12.24-09.40.10:434][319]  MyProject
+[2022.12.24-09.40.10:434][319]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,3789 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.40.10:439][319]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:40:17 PM
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Parsing headers for MyProjectEditor
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   Running UnrealHeaderTool "D:\Unreal_SingleDelegates\MyProject\MyProject.uproject" "D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\MyProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\noura\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Reflection code generated for MyProjectEditor in 4.721949 seconds
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Building 6 actions with 16 processes...
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   [1/6] MyProject.init.gen.cpp
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   [2/6] ListnerActor.cpp
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   [3/6] ListnerActor.gen.cpp
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   [4/6] UE4Editor-MyProject-3789.lib
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3789.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3789.exp
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:   [5/6] UE4Editor-MyProject-3789.dll
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3789.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-3789.suppressed.exp
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Error:   ListnerActor.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AListnerActor::EndPlay(enum EEndPlayReason::Type)" (?EndPlay@AListnerActor@@UEAAXW4Type@EEndPlayReason@@@Z)
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Error:   ListnerActor.gen.cpp.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl AListnerActor::EndPlay(enum EEndPlayReason::Type)" (?EndPlay@AListnerActor@@UEAAXW4Type@EEndPlayReason@@@Z)
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Error:   ListnerActor.gen.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl AListnerActor::ReceiveMessage(class FString)" (?ReceiveMessage@AListnerActor@@QEAAXVFString@@@Z) referenced in function "public: static void __cdecl AListnerActor::execReceiveMessage(class UObject *,struct FFrame &,void * const)" (?execReceiveMessage@AListnerActor@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+[2022.12.24-09.40.17:948][ 90]CompilerResultsLog: Error:   D:\Unreal_SingleDelegates\MyProject\Binaries\Win64\UE4Editor-MyProject-3789.dll : fatal error LNK1120: 2 unresolved externals
+[2022.12.24-09.40.17:948][ 90]LogMainFrame: MainFrame: Module compiling took 7.522 seconds
+[2022.12.24-09.40.17:948][ 90]Warning: HotReload failed, recompile failed
+[2022.12.24-09.40.24:764][825]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.40.24:770][825]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.40.53:678][391]Candidate modules for hot reload:
+[2022.12.24-09.40.53:678][391]  MyProject
+[2022.12.24-09.40.53:678][391]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,0773 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.40.53:681][391]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.40.55:138][499]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:40:55 PM
+[2022.12.24-09.40.55:138][499]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.40.55:138][499]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.40.55:138][499]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.40.55:138][499]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.24-09.40.55:138][499]CompilerResultsLog:   [1/4] ListnerActor.cpp
+[2022.12.24-09.40.55:138][499]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(28) : error C2653: 'AListenerActor': is not a class or namespace name
+[2022.12.24-09.40.55:138][499]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(30) : error C2065: 'Talker': undeclared identifier
+[2022.12.24-09.40.55:138][499]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(32) : error C2065: 'Talker': undeclared identifier
+[2022.12.24-09.40.55:138][499]LogMainFrame: MainFrame: Module compiling took 1.468 seconds
+[2022.12.24-09.40.55:138][499]Warning: HotReload failed, recompile failed
+[2022.12.24-09.41.03:648][401]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.41.03:659][401]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.41.29:998][869]Candidate modules for hot reload:
+[2022.12.24-09.41.29:999][869]  MyProject
+[2022.12.24-09.41.29:999][869]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,0788 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.41.30:002][869]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.41.31:399][996]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:41:31 PM
+[2022.12.24-09.41.31:399][996]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.41.31:399][996]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.41.31:399][996]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.41.31:399][996]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.24-09.41.31:399][996]CompilerResultsLog:   [1/4] ListnerActor.cpp
+[2022.12.24-09.41.31:399][996]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(35) : error C2653: 'AListenerActor': is not a class or namespace name
+[2022.12.24-09.41.31:399][996]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(37) : error C2065: 'Talker': undeclared identifier
+[2022.12.24-09.41.31:399][996]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(39) : error C2065: 'Talker': undeclared identifier
+[2022.12.24-09.41.31:399][996]LogMainFrame: MainFrame: Module compiling took 1.409 seconds
+[2022.12.24-09.41.31:399][996]Warning: HotReload failed, recompile failed
+[2022.12.24-09.42.09:269][968]Candidate modules for hot reload:
+[2022.12.24-09.42.09:269][968]  MyProject
+[2022.12.24-09.42.09:269][968]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,4703 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.42.09:275][968]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:42:10 PM
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog:   [1/4] ListnerActor.cpp
+[2022.12.24-09.42.10:715][ 74]CompilerResultsLog:    D:\Unreal_SingleDelegates\MyProject\Source\MyProject\ListnerActor.cpp(35) : error C2653: 'AListenerActor': is not a class or namespace name
+[2022.12.24-09.42.10:715][ 74]LogMainFrame: MainFrame: Module compiling took 1.465 seconds
+[2022.12.24-09.42.10:716][ 74]Warning: HotReload failed, recompile failed
+[2022.12.24-09.42.36:506][920]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.42.36:526][920]LogSlate: Window 'Message Log' being destroyed
+[2022.12.24-09.42.37:619][ 12]Candidate modules for hot reload:
+[2022.12.24-09.42.37:619][ 12]  MyProject
+[2022.12.24-09.42.37:619][ 12]Launching UnrealBuildTool... [D:/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=MyProject,1034 MyProjectEditor Win64 Development -Project="D:/Unreal_SingleDelegates/MyProject/MyProject.uproject" "D:/Unreal_SingleDelegates/MyProject/MyProject.uproject"  -IgnoreJunk]
+[2022.12.24-09.42.37:625][ 12]Warning: Starting HotReload took  0.0s.
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: New page: Compilation - Dec 24, 2022, 1:42:40 PM
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_SingleDelegates).
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Building MyProjectEditor...
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Building 4 actions with 16 processes...
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:   [1/4] ListnerActor.cpp
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:   [2/4] UE4Editor-MyProject-1034.lib
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-1034.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-1034.exp
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:   [3/4] UE4Editor-MyProject-1034.dll
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:      Creating library D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-1034.suppressed.lib and object D:\Unreal_SingleDelegates\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-1034.suppressed.exp
+[2022.12.24-09.42.40:472][294]CompilerResultsLog:   [4/4] MyProjectEditor.target
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Total time in Parallel executor: 1.84 seconds
+[2022.12.24-09.42.40:472][294]CompilerResultsLog: Total execution time: 2.66 seconds
+[2022.12.24-09.42.40:472][294]LogMainFrame: MainFrame: Module compiling took 2.865 seconds
+[2022.12.24-09.42.40:496][294]LogClass: Could not find existing class ListnerActor in package /Script/MyProject for HotReload, assuming new class
+[2022.12.24-09.42.40:496][294]LogClass: Function EndPlay is new.
+[2022.12.24-09.42.40:496][294]LogClass: Function ReceiveMessage is new.
+[2022.12.24-09.42.40:497][294]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.24-09.42.40:497][294]LogWindows: Windows GetLastError: The operation completed successfully. (0)
